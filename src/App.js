@@ -1,10 +1,10 @@
 import './App.css';
-import HoverMouse from './components/HoverMouse';
+import MouseHoverComponent from './components/MouseHoverComponent';
 
 function App() {
   return (
     <div className="App">
-     <HoverMouse />
+     <MouseHoverComponent />
     </div>
   );
 }
